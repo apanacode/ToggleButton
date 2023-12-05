@@ -1,28 +1,5 @@
 
 
-header{
-    text-align: center;
-    text-underline-position: auto;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: 0 5px 1px rgba(0,0,0,.3);
-    padding-bottom: 45px;
-    color: brown;
-}
-
-button{
-    align-content: center;
-    display: flex;
-
-    background-color: rgba(0,0,0,.3);
-    cursor: pointer;
-
-
-}
-button :hover{
-    background-color: rgb(255, 255, 255);
-    box-shadow: 0 4px 4px rgba(0,0,0,.3);
-}
-
 .dark{
     background-color: black;
     color: white;
